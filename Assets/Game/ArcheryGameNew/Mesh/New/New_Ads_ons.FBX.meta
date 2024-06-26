@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 5e06cf85c19334b6cb24ff0cc12ac853
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Arrows Stand
+    100002: Arrrows
+    100004: Camera
+    100006: Camera stand
+    100008: Camera stand001
+    100010: Camera003
+    100012: Cylinder012
+    100014: Lamp
+    100016: Lamp012
+    100018: Lamp013
+    100020: Lamp014
+    100022: Lamp015
+    100024: Lamp017
+    100026: Lamp018
+    100028: Lamp019
+    100030: //RootNode
+    100032: Stand
+    400000: Arrows Stand
+    400002: Arrrows
+    400004: Camera
+    400006: Camera stand
+    400008: Camera stand001
+    400010: Camera003
+    400012: Cylinder012
+    400014: Lamp
+    400016: Lamp012
+    400018: Lamp013
+    400020: Lamp014
+    400022: Lamp015
+    400024: Lamp017
+    400026: Lamp018
+    400028: Lamp019
+    400030: //RootNode
+    400032: Stand
+    2300000: Arrows Stand
+    2300002: Arrrows
+    2300004: Camera
+    2300006: Camera stand
+    2300008: Camera stand001
+    2300010: Camera003
+    2300012: Cylinder012
+    2300014: Lamp
+    2300016: Lamp012
+    2300018: Lamp013
+    2300020: Lamp014
+    2300022: Lamp015
+    2300024: Lamp017
+    2300026: Lamp018
+    2300028: Lamp019
+    2300030: Stand
+    3300000: Arrows Stand
+    3300002: Arrrows
+    3300004: Camera
+    3300006: Camera stand
+    3300008: Camera stand001
+    3300010: Camera003
+    3300012: Cylinder012
+    3300014: Lamp
+    3300016: Lamp012
+    3300018: Lamp013
+    3300020: Lamp014
+    3300022: Lamp015
+    3300024: Lamp017
+    3300026: Lamp018
+    3300028: Lamp019
+    3300030: Stand
+    4300000: Lamp
+    4300002: Arrows Stand
+    4300004: Stand
+    4300006: Arrrows
+    4300008: Cylinder012
+    4300010: Lamp012
+    4300012: Lamp013
+    4300014: Lamp014
+    4300016: Lamp015
+    4300018: Lamp017
+    4300020: Lamp018
+    4300022: Lamp019
+    4300024: Camera
+    4300026: Camera stand
+    4300028: Camera003
+    4300030: Camera stand001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

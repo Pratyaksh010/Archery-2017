@@ -1,0 +1,6 @@
+Winning 1-54
+Average 55-105
+Losing 106-170
+Idle 183-379
+Arrow Idle 0-1
+Arrow Hit 1-24

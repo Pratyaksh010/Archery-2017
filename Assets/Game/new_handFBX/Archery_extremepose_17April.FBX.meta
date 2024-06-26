@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 9e02479d302ae497abf2f7a0935e1ff3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: _l_arm_IK
+    100004: _l_elbow
+    100006: _l_index1
+    100008: _l_index2
+    100010: _l_index3
+    100012: _l_index_end
+    100014: _l_middle1
+    100016: _l_middle2
+    100018: _l_middle3
+    100020: _l_middle_end
+    100022: _l_pinkie1
+    100024: _l_pinkie2
+    100026: _l_pinkie3
+    100028: _l_pinkie_end
+    100030: _l_ring1
+    100032: _l_ring2
+    100034: _l_ring3
+    100036: _l_ring_end
+    100038: _l_shoulder
+    100040: _l_thumb1
+    100042: _l_thumb2
+    100044: _l_thumb3
+    100046: _l_thumb_end
+    100048: _l_wrist
+    100050: _l_wrist_ctrl
+    100052: _l_wrist_end
+    100054: _r_arm_IK
+    100056: _r_elbow
+    100058: _r_index1
+    100060: _r_index2
+    100062: _r_index3
+    100064: _r_index_end
+    100066: _r_middle1
+    100068: _r_middle2
+    100070: _r_middle3
+    100072: _r_middle_end
+    100074: _r_pinkie1
+    100076: _r_pinkie2
+    100078: _r_pinkie3
+    100080: _r_pinkie_end
+    100082: _r_ring1
+    100084: _r_ring2
+    100086: _r_ring3
+    100088: _r_ring_end
+    100090: _r_shoulder
+    100092: _r_thumb1
+    100094: _r_thumb2
+    100096: _r_thumb3
+    100098: _r_thumb_end
+    100100: _r_wrist
+    100102: _r_wrist_ctrl
+    100104: _r_wrist_end
+    100106: //RootNode
+    100108: Bow_bone
+    100110: Bow_main_ctrl
+    100112: Left hand
+    100114: Object001
+    100116: Object002
+    100118: Object003
+    100120: Recurve_bow
+    100122: Right_hand
+    100124: String_ctrl
+    400000: ' 1'
+    400002: _l_arm_IK
+    400004: _l_elbow
+    400006: _l_index1
+    400008: _l_index2
+    400010: _l_index3
+    400012: _l_index_end
+    400014: _l_middle1
+    400016: _l_middle2
+    400018: _l_middle3
+    400020: _l_middle_end
+    400022: _l_pinkie1
+    400024: _l_pinkie2
+    400026: _l_pinkie3
+    400028: _l_pinkie_end
+    400030: _l_ring1
+    400032: _l_ring2
+    400034: _l_ring3
+    400036: _l_ring_end
+    400038: _l_shoulder
+    400040: _l_thumb1
+    400042: _l_thumb2
+    400044: _l_thumb3
+    400046: _l_thumb_end
+    400048: _l_wrist
+    400050: _l_wrist_ctrl
+    400052: _l_wrist_end
+    400054: _r_arm_IK
+    400056: _r_elbow
+    400058: _r_index1
+    400060: _r_index2
+    400062: _r_index3
+    400064: _r_index_end
+    400066: _r_middle1
+    400068: _r_middle2
+    400070: _r_middle3
+    400072: _r_middle_end
+    400074: _r_pinkie1
+    400076: _r_pinkie2
+    400078: _r_pinkie3
+    400080: _r_pinkie_end
+    400082: _r_ring1
+    400084: _r_ring2
+    400086: _r_ring3
+    400088: _r_ring_end
+    400090: _r_shoulder
+    400092: _r_thumb1
+    400094: _r_thumb2
+    400096: _r_thumb3
+    400098: _r_thumb_end
+    400100: _r_wrist
+    400102: _r_wrist_ctrl
+    400104: _r_wrist_end
+    400106: //RootNode
+    400108: Bow_bone
+    400110: Bow_main_ctrl
+    400112: Left hand
+    400114: Object001
+    400116: Object002
+    400118: Object003
+    400120: Recurve_bow
+    400122: Right_hand
+    400124: String_ctrl
+    4300000: Left hand
+    4300002: Recurve_bow
+    4300004: Object002
+    4300008: Object003
+    4300010: Right_hand
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ' 1'
+    13700002: Left hand
+    13700004: Object002
+    13700006: Object003
+    13700008: Recurve_bow
+    13700010: Right_hand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

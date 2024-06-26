@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 4146b022c7f754dee9983bd1e6abe7f3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: adxt_board_texture
+    100002: camera
+    100004: Camera001
+    100006: Camera001.Target
+    100008: camera_mic_texture
+    100010: ground_02
+    100012: ground_texture
+    100014: led flood light
+    100016: Light
+    100018: light flare
+    100020: //RootNode
+    100022: light rays
+    100024: light rays 1
+    100026: Object012
+    100028: Omni001
+    100030: Omni002
+    100032: Omni003
+    100034: Particle View 001
+    100036: Particle View 001 1
+    100038: Particle View 001 2
+    100040: path _way
+    100042: stand_01
+    100044: stand_02
+    100046: top_fence
+    400000: adxt_board_texture
+    400002: camera
+    400004: Camera001
+    400006: Camera001.Target
+    400008: camera_mic_texture
+    400010: ground_02
+    400012: ground_texture
+    400014: led flood light
+    400016: Light
+    400018: light flare
+    400020: //RootNode
+    400022: light rays
+    400024: light rays 1
+    400026: Object012
+    400028: Omni001
+    400030: Omni002
+    400032: Omni003
+    400034: Particle View 001
+    400036: Particle View 001 1
+    400038: Particle View 001 2
+    400040: path _way
+    400042: stand_01
+    400044: stand_02
+    400046: top_fence
+    2300000: adxt_board_texture
+    2300002: camera
+    2300004: camera_mic_texture
+    2300006: ground_02
+    2300008: ground_texture
+    2300010: led flood light
+    2300012: Light
+    2300014: light flare
+    2300016: light rays
+    2300018: light rays 1
+    2300020: Object012
+    2300022: path _way
+    2300024: stand_01
+    2300026: stand_02
+    3300000: adxt_board_texture
+    3300002: camera
+    3300004: camera_mic_texture
+    3300006: ground_02
+    3300008: ground_texture
+    3300010: led flood light
+    3300012: Light
+    3300014: light flare
+    3300016: light rays
+    3300018: light rays 1
+    3300020: Object012
+    3300022: path _way
+    3300024: stand_01
+    3300026: stand_02
+    4300000: camera_mic_texture
+    4300002: camera
+    4300004: path _way
+    4300006: Light
+    4300008: led flood light
+    4300010: adxt_board_texture
+    4300012: ground_02
+    4300014: stand_02
+    4300016: stand_01
+    4300018: ground_texture
+    4300020: light flare
+    4300022: light rays
+    4300024: light rays
+    4300026: Object012
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .25
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

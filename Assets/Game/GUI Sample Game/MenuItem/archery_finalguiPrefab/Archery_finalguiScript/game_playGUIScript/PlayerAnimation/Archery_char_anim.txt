@@ -1,0 +1,3 @@
+Winning 1-54
+Average 55-105
+Losing 106-170
